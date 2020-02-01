@@ -108,6 +108,7 @@ int main(void)
   /* USER CODE END WHILE */
 	  count = __HAL_TIM_GetCounter(&htim1);    //read TIM2 counter value
     /*commment to smartgit test*/
+	  /*commment to smartgit test from git */
   /* USER CODE BEGIN 3 */
 
   }
